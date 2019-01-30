@@ -14,4 +14,4 @@ endpoints:
 / : respond with simple page that counts hit. 
 /json : similar respond with /, only with json formatted. 
 
-**TODO** : add swagger ui for better documentation
+**TODO** : add swagger ui for better documentation.
